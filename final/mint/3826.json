@@ -1,0 +1,50 @@
+{
+  "name": "MYNFT.GG #3826",
+  "symbol": "MNGG",
+  "description": "Train, battle, and trade your NFTs with friends!",
+  "seller_fee_basis_points": 700,
+  "image": "3826.png",
+  "external_url": "https://mynft.gg",
+  "edition": 3826,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono Blue"
+    },
+    {
+      "trait_type": "Head Gear",
+      "value": "Balaclava Black"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3826.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BrheDfqLCbD46pWHpg5z3BojHgSK8H1iwuTTRZvB4Prm",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "MYNFT.GG OG",
+    "family": "MYNFT.GG"
+  }
+}

@@ -1,0 +1,302 @@
+
+> hashlips_art_engine@1.1.1 rarity
+> node utils/rarity.js
+
+Trait type: Background
+{
+  trait: 'Electric',
+  weight: '1',
+  occurrence: '851 in 4200 editions (20.26 %)'
+}
+{
+  trait: 'Fire',
+  weight: '1',
+  occurrence: '814 in 4200 editions (19.38 %)'
+}
+{
+  trait: 'Grass',
+  weight: '1',
+  occurrence: '849 in 4200 editions (20.21 %)'
+}
+{
+  trait: 'Water',
+  weight: '1',
+  occurrence: '849 in 4200 editions (20.21 %)'
+}
+{
+  trait: 'Wind',
+  weight: '1',
+  occurrence: '837 in 4200 editions (19.93 %)'
+}
+
+Trait type: Body
+{
+  trait: 'Brown',
+  weight: '30',
+  occurrence: '1264 in 4200 editions (30.10 %)'
+}
+{
+  trait: 'Grey',
+  weight: '9',
+  occurrence: '406 in 4200 editions (9.67 %)'
+}
+{
+  trait: 'Light Brown',
+  weight: '30',
+  occurrence: '1224 in 4200 editions (29.14 %)'
+}
+{
+  trait: 'Purple',
+  weight: '1',
+  occurrence: '51 in 4200 editions (1.21 %)'
+}
+{
+  trait: 'Tan',
+  weight: '30',
+  occurrence: '1255 in 4200 editions (29.88 %)'
+}
+
+Trait type: Mouth
+{
+  trait: 'Mouth',
+  weight: '1',
+  occurrence: '4200 in 4200 editions (100.00 %)'
+}
+
+Trait type: Eyes
+{
+  trait: 'Eyes Blue',
+  weight: '25',
+  occurrence: '1084 in 4200 editions (25.81 %)'
+}
+{
+  trait: 'Eyes Brown',
+  weight: '25',
+  occurrence: '1069 in 4200 editions (25.45 %)'
+}
+{
+  trait: 'Eyes Green',
+  weight: '25',
+  occurrence: '1026 in 4200 editions (24.43 %)'
+}
+{
+  trait: 'Eyes Grey',
+  weight: '25',
+  occurrence: '1021 in 4200 editions (24.31 %)'
+}
+
+Trait type: Hair
+{
+  trait: 'Hair',
+  weight: '1',
+  occurrence: '4200 in 4200 editions (100.00 %)'
+}
+
+Trait type: Clothes
+{
+  trait: 'Football Blue',
+  weight: '12',
+  occurrence: '528 in 4200 editions (12.57 %)'
+}
+{
+  trait: 'Football Red',
+  weight: '12',
+  occurrence: '511 in 4200 editions (12.17 %)'
+}
+{
+  trait: 'Kimono Blue',
+  weight: '5',
+  occurrence: '227 in 4200 editions (5.40 %)'
+}
+{
+  trait: 'Kimono Brown',
+  weight: '5',
+  occurrence: '211 in 4200 editions (5.02 %)'
+}
+{
+  trait: 'Policeman Outfit Black',
+  weight: '10',
+  occurrence: '419 in 4200 editions (9.98 %)'
+}
+{
+  trait: 'Policeman Outfit',
+  weight: '10',
+  occurrence: '394 in 4200 editions (9.38 %)'
+}
+{
+  trait: 'Suit Black',
+  weight: '8',
+  occurrence: '336 in 4200 editions (8.00 %)'
+}
+{
+  trait: 'Suit White',
+  weight: '8',
+  occurrence: '330 in 4200 editions (7.86 %)'
+}
+{
+  trait: 'T shirt 1',
+  weight: '15',
+  occurrence: '597 in 4200 editions (14.21 %)'
+}
+{
+  trait: 'T shirt 2',
+  weight: '15',
+  occurrence: '647 in 4200 editions (15.40 %)'
+}
+
+Trait type: Face Gear
+{
+  trait: 'Facemask Green',
+  weight: '5',
+  occurrence: '223 in 4200 editions (5.31 %)'
+}
+{
+  trait: 'Facemask Grey',
+  weight: '5',
+  occurrence: '226 in 4200 editions (5.38 %)'
+}
+{
+  trait: 'Glasses',
+  weight: '20',
+  occurrence: '908 in 4200 editions (21.62 %)'
+}
+{
+  trait: 'Monocle',
+  weight: '1',
+  occurrence: '54 in 4200 editions (1.29 %)'
+}
+{
+  trait: 'None',
+  weight: '69',
+  occurrence: '2789 in 4200 editions (66.40 %)'
+}
+
+Trait type: Head Gear
+{
+  trait: 'Balaclava Black',
+  weight: '2',
+  occurrence: '72 in 4200 editions (1.71 %)'
+}
+{
+  trait: 'Balaclava Grey',
+  weight: '2',
+  occurrence: '98 in 4200 editions (2.33 %)'
+}
+{
+  trait: 'Balaclava Purple',
+  weight: '2',
+  occurrence: '104 in 4200 editions (2.48 %)'
+}
+{
+  trait: 'Beanie Black',
+  weight: '5',
+  occurrence: '214 in 4200 editions (5.10 %)'
+}
+{
+  trait: 'Beanie Blue',
+  weight: '5',
+  occurrence: '184 in 4200 editions (4.38 %)'
+}
+{
+  trait: 'Beanie Brown',
+  weight: '5',
+  occurrence: '211 in 4200 editions (5.02 %)'
+}
+{
+  trait: 'Beanie Dark Purple',
+  weight: '5',
+  occurrence: '208 in 4200 editions (4.95 %)'
+}
+{
+  trait: 'Beanie Light Brown',
+  weight: '5',
+  occurrence: '241 in 4200 editions (5.74 %)'
+}
+{
+  trait: 'Detective Hat Brown',
+  weight: '3',
+  occurrence: '141 in 4200 editions (3.36 %)'
+}
+{
+  trait: 'Detective Hat Red',
+  weight: '3',
+  occurrence: '140 in 4200 editions (3.33 %)'
+}
+{
+  trait: 'Detective Light Brown',
+  weight: '3',
+  occurrence: '138 in 4200 editions (3.29 %)'
+}
+{
+  trait: 'Dino Blue',
+  weight: '1',
+  occurrence: '62 in 4200 editions (1.48 %)'
+}
+{
+  trait: 'Dino Green',
+  weight: '1',
+  occurrence: '39 in 4200 editions (0.93 %)'
+}
+{
+  trait: 'Dino Orange',
+  weight: '1',
+  occurrence: '39 in 4200 editions (0.93 %)'
+}
+{
+  trait: 'None',
+  weight: '24',
+  occurrence: '789 in 4200 editions (18.79 %)'
+}
+{
+  trait: 'Police Hat Black',
+  weight: '3',
+  occurrence: '136 in 4200 editions (3.24 %)'
+}
+{
+  trait: 'Police Hat Blue',
+  weight: '3',
+  occurrence: '125 in 4200 editions (2.98 %)'
+}
+{
+  trait: 'Police Hat Purple',
+  weight: '3',
+  occurrence: '146 in 4200 editions (3.48 %)'
+}
+{
+  trait: 'Snapback Blue',
+  weight: '4',
+  occurrence: '206 in 4200 editions (4.90 %)'
+}
+{
+  trait: 'Snapback Brown',
+  weight: '4',
+  occurrence: '166 in 4200 editions (3.95 %)'
+}
+{
+  trait: 'Snapback Green',
+  weight: '4',
+  occurrence: '179 in 4200 editions (4.26 %)'
+}
+{
+  trait: 'Snapback Grey',
+  weight: '4',
+  occurrence: '199 in 4200 editions (4.74 %)'
+}
+{
+  trait: 'Snapback Pink',
+  weight: '4',
+  occurrence: '206 in 4200 editions (4.90 %)'
+}
+{
+  trait: 'Snapback Red',
+  weight: '4',
+  occurrence: '157 in 4200 editions (3.74 %)'
+}
+
+Trait type: Coin
+{
+  trait: 'wallet',
+  weight: '1',
+  occurrence: '4200 in 4200 editions (100.00 %)'
+}
+

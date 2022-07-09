@@ -1,0 +1,70 @@
+{
+    "Body": {
+        "Tan": "Bodies/32x32/Body_32x32_02.png",
+        "Light Brown": "Bodies/32x32/Body_32x32_03.png",
+        "Brown": "Bodies/32x32/Body_32x32_07.png",
+        "Grey": "Bodies/32x32/Body_32x32_09.png",
+        "Purple": "Bodies/32x32/Body_32x32_08.png"
+    },
+    "Clothes": {
+        "Football Blue": "Outfits/32x32/Outfit_02_32x32_04.png",
+        "Football Red": "Outfits/32x32/Outfit_02_32x32_01.png",
+        "T shirt 1": "Outfits/32x32/Outfit_01_32x32_07.png",
+        "T shirt 2": "Outfits/32x32/Outfit_01_32x32_02.png",
+        "Suit Black": "Outfits/32x32/Outfit_06_32x32_01.png",
+        "Suit White": "Outfits/32x32/Outfit_22_32x32_01.png",
+        "Policeman Outfit Black": "Outfits/32x32/Outfit_26_32x32_01.png",
+        "Policeman Outfit": "Outfits/32x32/Outfit_26_32x32_03.png",
+        "Kimono Blue": "Outfits/32x32/Outfit_23_32x32_01.png",
+        "Kimono Brown": "Outfits/32x32/Outfit_23_32x32_03.png"
+    },
+    "Backpack": {
+        "Football Blue": "Accessories/32x32/Accessory_03_Backpack_32x32_05.png",
+        "Football Red": "Accessories/32x32/Accessory_03_Backpack_32x32_05.png",
+        "T shirt 1": "Accessories/32x32/Accessory_03_Backpack_32x32_07.png",
+        "T shirt 2": "Accessories/32x32/Accessory_03_Backpack_32x32_06.png",
+        "Suit Black": "Accessories/32x32/Accessory_03_Backpack_32x32_08.png",
+        "Suit White": "Accessories/32x32/Accessory_03_Backpack_32x32_08.png",
+        "Policeman Outfit Black": "Accessories/32x32/Accessory_03_Backpack_32x32_08.png",
+        "Policeman Outfit": "Accessories/32x32/Accessory_03_Backpack_32x32_08.png",
+        "Kimono Blue": "Accessories/32x32/Accessory_03_Backpack_32x32_05.png",
+        "Kimono Brown": "Accessories/32x32/Accessory_03_Backpack_32x32_04.png"
+    },
+    "Eyes": {
+        "Eyes Blue": "Eyes/32x32/Eyes_32x32_07.png",
+        "Eyes Brown": "Eyes/32x32/Eyes_32x32_05.png",
+        "Eyes Green": "Eyes/32x32/Eyes_32x32_02.png",
+        "Eyes Grey": "Eyes/32x32/Eyes_32x32_03.png"
+    },
+    "Face Gear": {
+        "Facemask Grey": "Accessories/32x32/Accessory_17_Medical_Mask_32x32_02.png",
+        "Facemask Green": "Accessories/32x32/Accessory_17_Medical_Mask_32x32_05.png",
+        "Glasses": "Accessories/32x32/Accessory_15_Glasses_32x32_06.png",
+        "Monocle": "Accessories/32x32/Accessory_16_Monocle_32x32_01.png"
+    },
+    "Head Gear": {
+        "Balaclava Black": "Accessories/32x32/Accessory_07_Bataclava_32x32_01.png",
+        "Balaclava Purple": "Accessories/32x32/Accessory_07_Bataclava_32x32_02.png",
+        "Balaclava Grey": "Accessories/32x32/Accessory_07_Bataclava_32x32_03.png",
+        "Beanie Black": "Accessories/32x32/Accessory_11_Beanie_32x32_01.png",
+        "Beanie Light Brown": "Accessories/32x32/Accessory_11_Beanie_32x32_02.png",
+        "Beanie Brown": "Accessories/32x32/Accessory_11_Beanie_32x32_03.png",
+        "Beanie Blue": "Accessories/32x32/Accessory_11_Beanie_32x32_04.png",
+        "Beanie Dark Purple": "Accessories/32x32/Accessory_11_Beanie_32x32_05.png",
+        "Detective Hat Brown": "Accessories/32x32/Accessory_08_Detective_Hat_32x32_01.png",
+        "Detective Hat Red": "Accessories/32x32/Accessory_08_Detective_Hat_32x32_02.png",
+        "Detective Light Brown": "Accessories/32x32/Accessory_08_Detective_Hat_32x32_03.png",
+        "Police Hat Black": "Accessories/32x32/Accessory_06_Policeman_Hat_32x32_01.png",
+        "Police Hat Blue": "Accessories/32x32/Accessory_06_Policeman_Hat_32x32_02.png",
+        "Police Hat Purple": "Accessories/32x32/Accessory_06_Policeman_Hat_32x32_03.png",
+        "Snapback Red": "Accessories/32x32/Accessory_04_Snapback_32x32_01.png",
+        "Snapback Blue": "Accessories/32x32/Accessory_04_Snapback_32x32_02.png",
+        "Snapback Green": "Accessories/32x32/Accessory_04_Snapback_32x32_03.png",
+        "Snapback Grey": "Accessories/32x32/Accessory_04_Snapback_32x32_04.png",
+        "Snapback Pink": "Accessories/32x32/Accessory_04_Snapback_32x32_05.png",
+        "Snapback Brown": "Accessories/32x32/Accessory_04_Snapback_32x32_06.png",
+        "Dino Green": "Accessories/32x32/Accessory_05_Dino_Snapback_32x32_01.png",
+        "Dino Blue": "Accessories/32x32/Accessory_05_Dino_Snapback_32x32_02.png",
+        "Dino Orange": "Accessories/32x32/Accessory_05_Dino_Snapback_32x32_03.png"
+    }
+}
